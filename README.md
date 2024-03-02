@@ -13,3 +13,5 @@ Exploratory Data Analysis: we performed some basic data analysisto understand th
 
 # Conclusion
 In this project, we applied various data science and machine learning techniques to predict which passengers on the Spaceship Titanic were transported to an alternate dimension. we used a Light Gradient Boosting Machine(LGB) as my best model and achieved an accuracy score of ~0.81 on the test set. we learned a lot from this competition and enjoyed the challenge of working with a fictional and futuristic dataset. we hope you find this project interesting and useful.
+# team member 
+: [@Ziad](https://github.com/Ziadeliwa001)https://github.com/Ziadeliwa001
